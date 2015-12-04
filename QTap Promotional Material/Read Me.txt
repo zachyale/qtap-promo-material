@@ -1,0 +1,13 @@
+-- Official QTap Media Package --
+
+Published: October 3rd, 2015
+
+Included in this package are:
+	- iPhone 6S renderings (Silver and Space Grey)
+		- Dashboard, Login screen (To be used at your discretion), Buildings Map, Buildings Detail View, Resources
+	- Software Screenshots (iPhone 6S)
+		- Dashboard, Login screen (To be used at your discretion), Buildings Map, Buildings Detail View, Resources
+	- Apple App Store Screenshots (iPhone 6S)
+	- App Icon, available in multiple exported formats, sizes, and resolutionss
+
+For further information, or questions regarding QTap, please contact the team responsible for maintaining QTap, at qtap@queensu.ca
