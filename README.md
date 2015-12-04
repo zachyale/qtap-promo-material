@@ -9,7 +9,3 @@ Frontend Developer/Team Lead - Zachary Yale
 
 
 Backend Developer - Rony Besprozvanny
-
-# Samples
-
-![Silver iPhone - Dashboard](/QTap Promotional Material/iPhone 6S Renderings [Silver]/[1 = Silver iPhone 6S] Dashboard.png?raw=true "Optional Title")
